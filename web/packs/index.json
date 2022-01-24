@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "emojis.json"
+  ],
+  "homeserver_url": "https://matrix.applez.one"
+}
